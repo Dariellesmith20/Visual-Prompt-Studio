@@ -1,2 +1,4 @@
 # Visual-Prompt-Studio
-This is my prompt portfolio for my Art Appreciation Class
+Name:Darielle Smith 
+Course : Art Apreceation Selection #1301-172
+Description:This is my prompt portfolio for my Art Appreciation Class
